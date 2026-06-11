@@ -8,18 +8,26 @@
   },
   {
     "title": "Weapons",
-    "image": "https://i.imgur.com/FksZswj.jpeg"
+    "image": "https://i.imgur.com/FksZswj.jpeg",
+    "readData": "movie1",
+    "version": "0"
   },
   {
     "title": "Coolie",
-    "image": "https://i.imgur.com/yVEb7ke.jpeg"
+    "image": "https://i.imgur.com/yVEb7ke.jpeg",
+    "readData": "movie2",
+    "version": "0"
   },
   {
     "title": "Haunted Mountains The Yellow Taboo",
-    "image": "https://i.imgur.com/s5hYI9G.jpeg"
+    "image": "https://i.imgur.com/s5hYI9G.jpeg",
+    "readData": "movie3",
+    "version": "0"    
   },
   {
     "title": "The Ancestral Home",
-    "image": "https://i.imgur.com/4cQ19fK.jpeg"
+    "image": "https://i.imgur.com/4cQ19fK.jpeg",
+    "readData": "movie4",
+    "version": "0"
   }
 ]
