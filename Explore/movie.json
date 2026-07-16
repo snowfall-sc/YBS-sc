@@ -1,33 +1,40 @@
 [
   {
-    "title": "Demon Slayer Kimetsu no Yaiba Infinity Castle",
-    "image": "https://i.imgur.com/l6Il6NJ.jpeg",
-    "badge": "New",
+    "title": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe",
+    "image": "https://cdn.discordapp.com/attachments/1527115438503493672/1527177055685574799/Mobile_Suit_Gundam_Hathaway-The_Sorcery_of_Nymph_Circe.jpg?ex=6a59b5f7&is=6a586477&hm=dde421f639cdcf029f99c7e73dc4bd95923b5eeff6ff3b51abd24abc62a0ddec&",    
     "readData": "movie0",
-    "version": "0"
+    "version": 1
   },
   {
-    "title": "Weapons",
-    "image": "https://i.imgur.com/FksZswj.jpeg",
+    "title": "The Tao Exorcist",
+    "image": "https://cdn.discordapp.com/attachments/1527115438503493672/1527177056167661668/The_Tao_Exorcist.jpg?ex=6a59b5f7&is=6a586477&hm=a168c242fad3ed00cda3f80ed41570c851636ee7d6132f415b73a5017f7b54ee&",
     "readData": "movie1",
-    "version": "0"
+    "version": 1
   },
   {
-    "title": "Coolie",
-    "image": "https://i.imgur.com/yVEb7ke.jpeg",
+    "title": "Kijsada Paradise",
+    "image": "https://cdn.discordapp.com/attachments/1527115438503493672/1527177056511590563/Kijsada_Paradise.jpg?ex=6a59b5f7&is=6a586477&hm=4961d205366379290fa45e2703a94a0a3df18c497299f1413fc1ce1927bc6b8f&",
     "readData": "movie2",
-    "version": "0"
+    "version": 1
   },
   {
-    "title": "Haunted Mountains The Yellow Taboo",
-    "image": "https://i.imgur.com/s5hYI9G.jpeg",
+    "title": "Supergirl",
+    "image": "https://cdn.discordapp.com/attachments/1527115438503493672/1527177056935346316/Supergirl.jpg?ex=6a59b5f7&is=6a586477&hm=054e04d5b184e6df8c7836f776e1cfc308876390874d3f92d9c533cdaaedf0f7&",
     "readData": "movie3",
-    "version": "0"    
+    "version": 1  
   },
   {
-    "title": "The Ancestral Home",
-    "image": "https://i.imgur.com/4cQ19fK.jpeg",
+    "title": "Ghost Fluencer",
+    "image": "https://cdn.discordapp.com/attachments/1527115438503493672/1527199112804696074/Ghost_Fluencer.jpg?ex=6a59ca82&is=6a587902&hm=020de96e9b9b021486d89c5b07d07f443e215ccb224217b70734372a5939c90f&",
+    "badge": "New",
     "readData": "movie4",
-    "version": "0"
+    "version": 1
+  },
+  {
+    "title": "Evil Dead Burn",
+    "image": "https://cdn.discordapp.com/attachments/1527115438503493672/1527199113349959720/Evil_Dead_Burn.jpg?ex=6a59ca82&is=6a587902&hm=107de25137953a0196e9c4fc5dc26ff374bc1c1bb62be176cc69c71a4d8d7dd2&",
+    "badge": "New",
+    "readData": "movie5",
+    "version": 1
   }
 ]
